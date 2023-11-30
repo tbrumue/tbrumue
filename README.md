@@ -4,6 +4,7 @@ Currently, I'm a third-year PhD student in the [Bits to Energy Lab](https://www.
 
 **General links:**
 - 👨‍💻 [Personal Website](https://tbrumue.github.io)
+- 📬 [LinkedIn](https://www.linkedin.com/in/tobias-brudermueller/)
 - 💻 [Contact Details](https://im.ethz.ch/people/tbrudermuell.html)
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=rpGG9_UAAAAJ&hl)
 - 🖇 [ORCID](https://orcid.org/0009-0007-7319-1142)
