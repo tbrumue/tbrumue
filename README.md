@@ -1,11 +1,10 @@
 ## Hi there! I'm Tobias Brudermüller. 👋
 
-Currently, I'm a researcher in the [Bits to Energy Lab](https://www.bitstoenergy.com) at [ETH Zurich](https://www.im.ethz.ch). In my current research, I develop machine learning techniques for energy applications to promote sustainability and for the digitalization of the power grid. 🔋🔌💡 For example, one area of focus for my work is analyzing data from smart electricity meters to optimize residential heat pumps in operation. For my research, I currently collaborate with multiple partners: [Swiss Federal Office of Energy](https://www.bfe.admin.ch/bfe/de/home.html), [Bosch](https://www.bosch-homecomfort.com/ch/de/wohngebaeude/home/), [EKZ](https://www.ekz.ch/de/privatkunden.html), [Enerlytica](https://www.enerlytica.com/), and [Hoval](https://www.hoval.ch/).
+At [Siemens](https://www.siemens.com/), I’m currently focused on AI, advanced analytics, and the development of new technologies. 📊 Previously, I was a researcher in the [Bits to Energy Lab](https://www.bitstoenergy.com) at [ETH Zurich](https://www.im.ethz.ch), where I developed machine learning techniques for energy applications to promote sustainability and for the digitalization of the power grid. 🔋🔌💡 One area of focus for my work was analyzing data from smart electricity meters and IoT sensor data to optimize residential heat pumps in operation. For my research, I collaborated with multiple partners: [Swiss Federal Office of Energy](https://www.bfe.admin.ch/bfe/de/home.html), [Bosch](https://www.bosch-homecomfort.com/ch/de/wohngebaeude/home/), [EKZ](https://www.ekz.ch/de/privatkunden.html), [Enerlytica](https://www.enerlytica.com/), and [Hoval](https://www.hoval.ch/).
 
 **General links:**
 - 👨‍💻 [Personal Website](https://tbrumue.github.io)
 - 📬 [LinkedIn](https://www.linkedin.com/in/tobias-brudermueller/)
-- 💻 [Contact Details](https://im.ethz.ch/people/tbrudermuell.html)
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=rpGG9_UAAAAJ&hl)
 - 🖇 [ORCID](https://orcid.org/0009-0007-7319-1142)
 - 📽 [Youtube - Science Slam (in German)](https://youtu.be/JFSeshpIkeE?feature=shared)
