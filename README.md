@@ -1,13 +1,17 @@
 ## Hi there! I'm Tobias Brudermüller. 👋
 
-At [Siemens](https://www.siemens.com/), I’m currently focused on AI, advanced analytics, and the development of new technologies. 📊 Previously, I was a researcher in the [Bits to Energy Lab](https://www.bitstoenergy.com) at [ETH Zurich](https://www.im.ethz.ch), where I developed machine learning techniques for energy applications to promote sustainability and for the digitalization of the power grid. 🔋🔌💡 One area of focus for my work was analyzing data from smart electricity meters and IoT sensor data to optimize residential heat pumps in operation. For my research, I collaborated with multiple partners: [Swiss Federal Office of Energy](https://www.bfe.admin.ch/bfe/de/home.html), [Bosch](https://www.bosch-homecomfort.com/ch/de/wohngebaeude/home/), [EKZ](https://www.ekz.ch/de/privatkunden.html), [Enerlytica](https://www.enerlytica.com/), and [Hoval](https://www.hoval.ch/).
+I’m an AI architect and technical lead in the AI & New Technologies team at Siemens, where I build enterprise-scale multi-agent systems for Siemens customers and business units. I also help shape the company’s physical AI strategy and co-initiate industry partnerships on industrial foundation models. Alongside, I do research as an associated researcher at the [ETH Agentic Systems Lab](https://www.agenticsystemslab.org).
+
+I hold a PhD in applied AI from ETH Zurich and a master’s in electrical engineering from RWTH Aachen. Further, I was a visiting researcher at Yale, collaborated with research teams at Google and UC Berkeley, worked with SAP, Mercedes-Benz, Bosch and the Swiss Federal Office of Energy, and founded an augmented reality startup. Along the way I’ve worked on AI for time series, computer vision, neural architecture search and logic optimization.
+
+Check out my [personal website](https://tbrumue.vercel.app) where I collect what I’ve built while exploring and creating in all directions. If you’d like to collaborate or share an idea, [get in touch](tbrudermuell@ethz.ch).
 
 **General links:**
-- 👨‍💻 [Personal Website](https://tbrumue.github.io)
+- 👨‍💻 [Personal Website](https://tbrumue.vercel.app)
 - 📬 [LinkedIn](https://www.linkedin.com/in/tobias-brudermueller/)
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=rpGG9_UAAAAJ&hl)
 - 🖇 [ORCID](https://orcid.org/0009-0007-7319-1142)
-- 📽 [Youtube - Science Slam (in German)](https://youtu.be/JFSeshpIkeE?feature=shared)
+- 📧 [Contact](tbrudermuell@ethz.ch)
 
 ---
 
