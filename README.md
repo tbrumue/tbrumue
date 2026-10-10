@@ -4,14 +4,14 @@ I’m an AI architect and technical lead in the AI & New Technologies team at Si
 
 I hold a PhD in applied AI from ETH Zurich and a master’s in electrical engineering from RWTH Aachen. Further, I was a visiting researcher at Yale, collaborated with research teams at Google and UC Berkeley, worked with SAP, Mercedes-Benz, Bosch and the Swiss Federal Office of Energy, and founded an augmented reality startup. Along the way I’ve worked on AI for time series, computer vision, neural architecture search and logic optimization.
 
-Check out my [personal website](https://tbrumue.vercel.app) where I collect what I’ve built while exploring and creating in all directions. If you’d like to collaborate or share an idea, [get in touch](tbrudermuell@ethz.ch).
+Check out my [personal website](https://tbrumue.vercel.app) where I collect what I’ve built while exploring and creating in all directions. If you’d like to collaborate or share an idea, [get in touch](mailto:tbrudermuell@ethz.ch).
 
 **General links:**
 - 👨‍💻 [Personal Website](https://tbrumue.vercel.app)
 - 📬 [LinkedIn](https://www.linkedin.com/in/tobias-brudermueller/)
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=rpGG9_UAAAAJ&hl)
 - 🖇 [ORCID](https://orcid.org/0009-0007-7319-1142)
-- 📧 [Contact](tbrudermuell@ethz.ch)
+- 📧 [Contact](mailto:tbrudermuell@ethz.ch)
 
 ---
 
